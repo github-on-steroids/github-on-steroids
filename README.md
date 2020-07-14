@@ -1,5 +1,8 @@
 # Github on Steroids :pill:
 
+This repository bootstraps everything. This is the perfect place for you if you want to glance through 
+the extension codebase. However if you wish to only use it, then head over to [the documentation site with install instructions](https://github-on-steroids.github.io/)
+
 ### Project Setup
 the project has several repositories associated with it, the usage and reasons are mentioned here:
 - [Idea Sharing and Broadcast](https://github.com/github-on-steroids/github-on-steroids.github.io) : To share ideas and create a mind map behind the project development.
